@@ -27,7 +27,7 @@ miután letöltötted, csomagold ki a css-mappádba, és hivatkozz a benne talá
 - Ez egy div legyen "header__search" osztállyal.
 - Inline legyen megjelenítve.
 ---
-- Legyen a header__search osztályú divben egy input elem és egy gomb.
+- Legyen a header__search osztályú divb en egy input elem és egy gomb.
 - Az input elem osztálya "search__input" legyen.
 - Legyen a bal felső és alsó sarka 4 pixelre lekerekítve.
 - A jobb-bal padding 0.75, a felső-alsó 0.375 legyen a roothoz viszonyítva.
